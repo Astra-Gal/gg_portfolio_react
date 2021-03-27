@@ -1,4 +1,10 @@
-.App {
+h1 {
+  color: peru;
+  font-family: 'Italiana', serif;
+  font-size: 7rem;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +41,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
