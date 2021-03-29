@@ -13,13 +13,13 @@ h1 {
   color:peru;
   font-family: 'Italiana', serif;
   font-size: 7rem;
-  text-align: center;
+  text-align: left;
 }
 
 .my-last-name {
-  color: darksalmon;
+  color: saddlebrown;
 }
-/* rosybrown */
+/* rosybrown darksalmon*/
 /* .App {
   text-align: center;
 }
