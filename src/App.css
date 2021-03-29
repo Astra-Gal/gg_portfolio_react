@@ -1,6 +1,11 @@
 html {
   box-sizing: border-box;
-  background: lavenderblush;
+  background-image: linear-gradient(
+    to right,
+    lavenderblush,
+    rosybrown
+  );
+  min-height: 100vh;
 }
 
 *,
@@ -10,7 +15,7 @@ html {
 }
 
 h1 {
-  color:peru;
+  color: peru;
   font-family: 'Italiana', serif;
   font-size: 7rem;
   text-align: left;
