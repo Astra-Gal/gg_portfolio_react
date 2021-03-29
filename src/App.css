@@ -1,10 +1,25 @@
+html {
+  box-sizing: border-box;
+  background: lavenderblush;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
 h1 {
-  color: black;
+  color:peru;
   font-family: 'Italiana', serif;
   font-size: 7rem;
   text-align: center;
 }
 
+.my-last-name {
+  color: darksalmon;
+}
+/* rosybrown */
 /* .App {
   text-align: center;
 }
