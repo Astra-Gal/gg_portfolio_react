@@ -10,6 +10,10 @@ h2 {
   color: rgb(103, 101, 101);
 }
 
+p {
+  font-weight: bold;
+}
+
 .my-full-name-and-title {
   display: flex;
   flex-direction: column;
