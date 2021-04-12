@@ -1,12 +1,12 @@
 import React from 'react';
-import SiteHeader from '../components/SiteHeader'
+import SiteHeader from '../components/SiteHeader';
 
 const MainContainer = () => {
-    return (
-        <>
-        <SiteHeader/>
-        </>
-    )
-}
+  return (
+    <>
+      <SiteHeader />
+    </>
+  );
+};
 
 export default MainContainer;

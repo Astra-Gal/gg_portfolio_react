@@ -1,0 +1,11 @@
+h1 {
+  color: rgb(70, 68, 68);
+  font-family: inherit;
+  font-size: 5rem;
+  text-align: left;
+}
+
+h2 {
+  font-family: inherit;
+  color: gray;
+}

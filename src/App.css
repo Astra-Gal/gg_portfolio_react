@@ -3,9 +3,11 @@ html {
   background-image: linear-gradient(
     to right,
     lavenderblush,
-    rosybrown
+    #cd8987 85%,
+    #92bfb1
   );
   min-height: 100vh;
+  padding: 5px;
 }
 
 *,
@@ -14,17 +16,15 @@ html {
   box-sizing: inherit;
 }
 
-h1 {
-  color: peru;
+body {
   font-family: 'Italiana', serif;
-  font-size: 7rem;
-  text-align: left;
 }
 
-.my-last-name {
-  color: saddlebrown;
-}
-/* rosybrown darksalmon*/
+/* rosybrown darksalmon   cam blue- #92bfb1
+new york pink- CD8987
+silver pink- CDACA1
+independence- 5A5766
+jonquil- F0C808*/
 /* .App {
   text-align: center;
 }
