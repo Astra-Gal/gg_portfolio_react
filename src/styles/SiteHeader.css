@@ -7,5 +7,12 @@ h1 {
 
 h2 {
   font-family: inherit;
-  color: gray;
+  color: rgb(103, 101, 101);
+}
+
+.my-full-name-and-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
