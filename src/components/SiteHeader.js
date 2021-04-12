@@ -10,6 +10,7 @@ const SiteHeader = () => {
           <span className="my-last-name">galastro</span>
         </h1>
         <h2>SOFTWARE DEVELOPER</h2>
+        <p>... watch this space!</p>
       </div>
     </>
   );
