@@ -1,11 +1,6 @@
 html {
   box-sizing: border-box;
-  background-image: linear-gradient(
-    to right,
-    lavenderblush,
-    #cd8987 85%,
-    #92bfb1
-  );
+  background: lavenderblush;
   min-height: 100vh;
   padding: 5px;
 }
